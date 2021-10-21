@@ -62,3 +62,4 @@ echo $a
 
 - [x] Write the press reless
 - [ ] update the website
+- [ ] Contact the media
